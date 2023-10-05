@@ -1,0 +1,22 @@
+.main{
+    text-align: center;
+    align-items:center;
+    justify-content: center;
+}
+
+.atencao {
+    text-align: center;
+    justify-content: center;
+    color: yellow;
+    align-items:center;
+}
+.perigo {
+    text-align: center;
+    color: red;
+    align-items:center;
+}
+.informacao {
+    text-align: center;
+    color: blue;
+    align-items:center;
+}
